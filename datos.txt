@@ -1,0 +1,135 @@
+Runers {
+    name: "Jose",
+    time_400: Timeruners {
+        minutes: 12,
+        seconds: 1,
+    },
+    time_800: Timeruners {
+        minutes: 2,
+        seconds: 1,
+    },
+    time_1500: Timeruners {
+        minutes: 2,
+        seconds: 1,
+    },
+}
+Runers {
+    name: "Gabriel",
+    time_400: Timeruners {
+        minutes: 12,
+        seconds: 12,
+    },
+    time_800: Timeruners {
+        minutes: 12,
+        seconds: 12,
+    },
+    time_1500: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+}
+Runers {
+    name: "Manuel",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 0,
+    },
+    time_800: Timeruners {
+        minutes: 1,
+        seconds: 40,
+    },
+    time_1500: Timeruners {
+        minutes: 1,
+        seconds: 12,
+    },
+}
+Runers {
+    name: "daniel",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_800: Timeruners {
+        minutes: 3,
+        seconds: 1,
+    },
+    time_1500: Timeruners {
+        minutes: 2,
+        seconds: 1,
+    },
+}
+Runers {
+    name: "jsoe",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_800: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_1500: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+}
+Runers {
+    name: "daniel",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_800: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_1500: Timeruners {
+        minutes: 1,
+        seconds: 1,
+    },
+}
+Runers {
+    name: "manuel",
+    time_400: Timeruners {
+        minutes: 21,
+        seconds: 1,
+    },
+    time_800: Timeruners {
+        minutes: 2,
+        seconds: 1,
+    },
+    time_1500: Timeruners {
+        minutes: 2,
+        seconds: 1,
+    },
+}
+Runers {
+    name: "jose",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_800: Timeruners {
+        minutes: 3,
+        seconds: 1,
+    },
+    time_1500: Timeruners {
+        minutes: 3,
+        seconds: 1,
+    },
+}
+Runers {
+    name: "jose",
+    time_400: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_800: Timeruners {
+        minutes: 1,
+        seconds: 2,
+    },
+    time_1500: Timeruners {
+        minutes: 1,
+        seconds: 1,
+    },
+}

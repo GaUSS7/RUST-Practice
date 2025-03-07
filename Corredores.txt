@@ -1,0 +1,14 @@
+Nombre              	400m    	800m    	1500m   
+Jose                	      12:01	       2:01	       2:01
+Gabriel             	      12:12	      12:12	       1:02
+Manuel              	       1:00	       1:40	       1:12
+daniel              	       1:02	       3:01	       2:01
+jsoe                	       1:02	       1:02	       1:02
+daniel              	       1:02	       1:02	       1:01
+manuel              	      21:01	       2:01	       2:01
+jose                	       1:02	       3:01	       3:01
+jose                	       1:02	       1:02	       1:01
+
+Porcentaje de corredores con menos de 50 segundos en 400m: 0.00%
+Mejor tiempo en 1500m: daniel - 1:1
+Corredores con menos de 2 minutos en 800m: 4
